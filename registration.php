@@ -87,8 +87,3 @@ if(!empty($_POST)) {
         <?php endif ?>
 </body>
 </html>
-
-
-<p>一部変更しました。</p>
-
-<Gitの使用方法を学習中>
